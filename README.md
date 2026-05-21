@@ -1,2 +1,2 @@
 # FSPR_Denoising
-FSPR_Denoising
+Image denoising is a fundamental task in low-level vision and visual computing. A critical challenge lies in preserving delicate high-frequency details while removing severe noise, especially for high-resolution images. Existing methods suffer from the perception-distortion trade-off or feature coupling in parallel frequency-spatial designs. To tackle these issues, we propose a Sequentially Decoupled Frequency-Spatial Progressive Refinement (FSPR) architecture. It first uses a phase-preserving frequency module to protect structural edges without altering phase information, then applies a multi-scale contextual attention module to suppress residual noise adaptively. 
